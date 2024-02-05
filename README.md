@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyseAtan
-- 🌱 currently student @42Berlin
+- 🌱 student @42Berlin
 
 <!---
 AyseAtan/AyseAtan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
