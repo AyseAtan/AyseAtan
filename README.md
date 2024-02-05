@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyseAtan
-- 🌱 I’m currently learning how to create my own library of functions
+- 🌱 currently student @42Berlin
 
 <!---
 AyseAtan/AyseAtan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
